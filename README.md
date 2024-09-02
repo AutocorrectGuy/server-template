@@ -24,7 +24,7 @@ Follow these simple steps to get the Express server up and running with automati
 ### 4. 🖥️ Start the Development Server
 - If you are on Windows, open the Command Prompt and run:
   ```bash
-  npm run dev
+  start dev
   ```
 - If you are NOT on windows, run
   ```bash
